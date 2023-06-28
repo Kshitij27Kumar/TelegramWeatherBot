@@ -1,0 +1,23 @@
+{
+  "name": "telegram-weather-bot-using-nodejs",
+  "version": "1.0.0",
+  "description": "Telegram Bot for weather",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshitij27Kumar/TelegramWeatherBot.git"
+  },
+  "author": "Kshitij Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshitij27Kumar/TelegramWeatherBot/issues"
+  },
+  "homepage": "https://github.com/Kshitij27Kumar/TelegramWeatherBot#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
